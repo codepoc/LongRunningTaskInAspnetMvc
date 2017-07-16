@@ -1,0 +1,8 @@
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\bin\Debug\netcoreapp1.1\LongRunningTask.deps.json
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\bin\Debug\netcoreapp1.1\LongRunningTask.runtimeconfig.json
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\bin\Debug\netcoreapp1.1\LongRunningTask.runtimeconfig.dev.json
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\bin\Debug\netcoreapp1.1\LongRunningTask.dll
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\bin\Debug\netcoreapp1.1\LongRunningTask.pdb
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\obj\Debug\netcoreapp1.1\LongRunningTask.AssemblyInfo.cs
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\obj\Debug\netcoreapp1.1\LongRunningTask.dll
+c:\users\vpate\documents\visual studio 2017\Projects\LongRunningTask\LongRunningTask\obj\Debug\netcoreapp1.1\LongRunningTask.pdb

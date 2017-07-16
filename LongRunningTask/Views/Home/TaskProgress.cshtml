@@ -1,0 +1,37 @@
+﻿@model string
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Task Progress</h1>
+    </div>
+    <div class="col-md-12">
+        <hr />
+    </div>
+    <div class="col-md-12">
+        &nbsp;
+    </div>
+
+    @if (Model == "done")
+    {
+        <div class="col-md-12">            
+            <div class="alert-success">
+                <h3><img src="~/images/TaskCompleted.png" /> Task completed successfully</h3>
+            </div>
+            <div>
+                <h3>@Html.Raw(Model)</h3>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="col-md-12">
+            <div class="alert-info">
+                <h3><img src="~/images/pleasewait.gif" /> Please wait</h3>
+            </div>
+            <div>
+                <h3>@Html.Raw(Model)</h3>
+            </div>
+        </div>
+    }
+</div>
